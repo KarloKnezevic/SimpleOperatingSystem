@@ -1,0 +1,6 @@
+default 0
+timeout=0
+title 03_Stdout
+root (cd)
+kernel /boot/03_Stdout.elf
+boot
